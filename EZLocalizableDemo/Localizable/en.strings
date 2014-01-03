@@ -1,0 +1,30 @@
+/* Localized versions of Localizable.strings keys */
+/*  "aaaakkkk"         = "aaaaa";   */
+/*"bbbbkkk"         = "bbbb";*/
+/*"cccckkk"
+ = "cccc";   */
+
+/*  "ddddkkk"
+ = "ddddd";   */
+"helloKey" = "Hello";
+" UpdateItemKey"         = "Update Now";
+"FetchConfigFileFailMsgKey"       = "To access this content, a\nconnection to the internet\nis required.  You’re either\noffline right now or your\nsignal strength is too low.\n\nPlease make sure your\nairplane mode is turned\noff and a WiFi or 3G/EDGE\nconnection is available.";
+
+
+//home
+"ScoreboardKey" = "    Scoreboard";
+"NewsKey" = "News";
+
+//main menu
+"FeaturedKey" = "Featured";
+"HomeKey" = "Home";
+
+
+
+//                   "sssssss" ="Game replay and highlights will be available on BTN2Go as soon as broadcast rights restrictions allow.";
+"VodAskKey" ="Selected game is not broadcast by BTN and is therefore not available live on BTN2Go. Game replay and highlights will be available on-demand on BTN2Go. Replay <%@>";
+"VodButtonKey" ="Got it, Thanks";
+"NoFavTeamMsgKey" = "You have no favorite teams at this time.\nDo you want to add one now?";
+
+
+"ZipNoSpaceKey"="Please enter a valid zip code (only 5 numbers or plus-4 codes, for example 12345-1234, no spaces).";
